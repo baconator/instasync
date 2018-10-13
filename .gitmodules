@@ -1,0 +1,3 @@
+[submodule "submodules/dokan-java"]
+	path = submodules/dokan-java
+	url = https://github.com/dokan-dev/dokan-java.git
